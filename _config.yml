@@ -1,0 +1,6 @@
+lsi: true
+auto: false
+pygments: true
+markdown: maruku
+permalink: /articles/:title.html
+baseurl: http://startupjockey.github.com
