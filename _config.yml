@@ -2,5 +2,5 @@ lsi: true
 auto: false
 pygments: true
 markdown: maruku
-permalink: /articles/:title.html
-baseurl: http://startupjockey.github.com
+baseurl: http://startupjockey.com
+permalink: /:year/:month/:title
