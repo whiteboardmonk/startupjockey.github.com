@@ -26,11 +26,11 @@ body {color: #4f4d4b;background: #f5f5f5;font-family: 'PT Sans', "Lucida Grande"
 .post {margin-bottom:20px}
 .post p img {margin: 0}
 .post h2, .post h3 {font-family: 'Yanone Kaffeesatz', Arial, sans-serif;font-weight: normal;}
-.post h2 {font-size: 25px;color: #32677a;margin:24px 0;}
+.post h2 {font-size: 25px;color: #32677a;margin:24px 0 12px;}
 .post h2 a, .post h2 a:link, .post h2 a:visited, .post h2 a:active {color:#32677a;background:transparent;text-decoration:none;border:none;}
 .post h2 a:hover {color:#d94567;text-decoration:underline;}
 .post p {font-family: 'PT Sans', "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, Arial, Helvetica, sans-serif;font-size: 15px;line-height: 21px;}
-.post-meta {margin: 10px 0;padding: 0;}
+.post-meta {margin: 10px 0 24px;padding: 0;}
 .meta-date, .meta-tags {margin: 0;font-size: 12px;font-weight: normal;color: #8c8c8c;}
 .meta-tags ul {margin: 0;padding: 0;list-style: none;}
 .meta-tags li {margin: 0;padding: 0;display: inline;list-style: none;}
